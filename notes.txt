@@ -1,0 +1,101 @@
+Experimental notes for planned mods and their configs.
+Ignore this file. I made it to track changes for my next modlist.
+
+disable stat boosts in covert actions
+  enable stat boosts in soldier development
+  activate the other disabling mod
+
+melee / blademaster changes ??? DONE
+
+add mind control
+  warlock crown
+  psionics ex machina
+  configure psionic class tree to add mind control ???
+
+add failsafe DONE
+
+add full override
+
+maybe go back to psionic overhaul + biotic plugin + faster lab training ???
+  adjust the psionic/biotic ratio
+  configure psionic class tree to add mind control ???
+
+run the new skip mod
+
+instant loot DONE
+
+camera mod DONE
+
+possible remove crysis music ???
+
+probably leave only one raider faction
+
+stronger smoke grenades REJECTED
+
+landed ufos ???
+
+remove eu plasma + lasers
+
+adjust burn ammo DONE
+
+device dot fix DONE
+
+remove wotc knives REJECTED
+
+remove stealth overhaul REJECTED
+
+adjusted class availability (numinforceddeck=1) DONE
+  biotic DONE
+  jedi DONE
+
+remove laser replacer
+
+remove sniper class
+
+remove predator class
+
+adjusted covert actions per influence DONE
+
+add choose my class mod ???
+
+add poi mods
+
+add shield rework
+
+add combined lab workshop maybe ???
+
+add ammo as weapon mod maybe REJECTED
+
+add ripjack bleeding maybe REJECTED
+
+add drome dome maybe ???
+
+remove heavy weapon tweaks
+
+removed lw2 single target per shot limit on reaction shots DONE
+
+adjusted flamethrower ranges gauntlet + elemental DONE
+
+add bullpup/pistol rifle range mod ???
+
+remove ammo as pistols
+
+remove lw2 plating
+
+removed haywire protocol limit per target DONE
+
+remove ai to ai activations maybe (interferes on lost missions) ???
+
+add double pod mod REJECTED
+
+remove frost or requiem legion maybe REJECTED
+
+remove dynamic aliens by force level
+
+add disable aim assist maybe ???
+
+remove rising tides
+
+add latest rising tides
+
+
